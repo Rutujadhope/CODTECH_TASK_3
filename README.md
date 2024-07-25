@@ -29,5 +29,5 @@ Technologies Used
 💻 Arduino IDE: The integrated development environment where the programming will take place.
 🔋 USB Cable: Used for both programming the Arduino and supplying power to the circuit.
 
-
+![Screenshot (4)](https://github.com/user-attachments/assets/d160a59f-330c-4f83-a5fb-4c4085193780)
    
